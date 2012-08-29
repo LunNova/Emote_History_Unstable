@@ -1,4 +1,4 @@
-/*Parsed 12803 emote aliases.*/
+/*Parsed 12805 emote aliases.*/
 .G_today_{float:left;background-image:url(http://d.thumbs.redditmedia.com/dN7SE1I0H0ul7jP-.png);width:500px;height:270px}
 .G_imamakethisanemoterealquick_{float:left;background-image:url(http://e.thumbs.redditmedia.com/reUrhLuICVFtwobp.png);width:456px;height:304px}
 .G_lunafilly_{float:left;background-image:url(http://b.thumbs.redditmedia.com/z-06hS5Md37RrzKy.png)}
@@ -2449,6 +2449,8 @@
 .G_emptytable_{float:left;background-image:url(http://c.thumbs.redditmedia.com/9U_7-tDvpDULG6S8.png);width:204px;height:139px}
 .G_lickiepie_[href*="-combine"] + a{position:relative;left:-220px;top:127px;margin-right:-220px}
 .md a[href^="/emptytable"][href*="-combine"]{z-index:2;position:relative}
+.md a[href*="mount-combine"] + a{z-index:2;position:relative;margin-right:-999px;margin-bottom:-999px}
+.md a[href*="mount-combine"] + a{left:-207px;top:153px}
 .md a[href*="mount-combine"] + a[href^="/ajfun"]{margin-left:0px}
 .md a[href*="mount-combine"] + a[href^="/darklefun"],.md a[href*="mount-combine"] + a[href^="/dashfun"],.md a[href*="mount-combine"] + a[href^="/twifun"]{margin-left:-26px}
 .md a[href*="mount-combine"] + a[href^="/shyfun"]{margin-left:-18px}
