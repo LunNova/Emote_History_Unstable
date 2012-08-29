@@ -1,4 +1,4 @@
-/*Parsed 70 emote aliases.*/
+/*Parsed 76 emote aliases.*/
 .G_dashurbate_{float:left;width:133px;height:150px;background-image:url(http://e.thumbs.redditmedia.com/5uosEn09yJf_tKUv.png)}
 .G_jizz_{float:left;width:160px;height:97px;background-image:url(http://d.thumbs.redditmedia.com/K3_bLeg6rbxjuJYc.png)}
 .G_bigenough_{float:left;width:1128px;height:1250px;background-image:url(http://c.thumbs.redditmedia.com/lfTijbZZCPlbHbYh.png)}
@@ -35,6 +35,8 @@
 .G_fut13_,.G_futacute_{height:300px;width:253px;background-position:0 0}
 .G_fut14_,.G_futaplot_{height:345px;width:400px;background-position:-253px 0}
 .G_fut15_,.G_futapomf_{height:352px;width:350px;background-position:-253px -345px}
+.md a[href*="images.4chan.org"]:after,.md a[href*="motherless.com"]:after,.md a[href*="static.fjcdn.com"]:after{color:gray;content:"] - |relocation advised; inclined to evanesce| "}
+.md a[href*="images.4chan.org"]:before,.md a[href*="motherless.com"]:before,.md a[href*="static.fjcdn.com"]:before{color:gray;content:"["}
 .G_sandwich_{float:none;width:258px;height:212px;background-position:-0px -0px;background-image:url(http://a.thumbs.redditmedia.com/xqcT95cAGpl1Xmdf.png)}
 .G_swh7s_{float:none;width:300px;height:263px;background-position:-0px -0px;background-image:url(http://e.thumbs.redditmedia.com/XqDfRoy7kKraBSCL.png)}
 .G_cl00_,.G_futashy_{background-position:-0px -0px}
